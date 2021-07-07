@@ -13,3 +13,6 @@ git push origin master
 //Above command will push the commit to github cloud. 
 //to see changes in code before adding file to staging
 git diff Readme.md
+
+//to see log of commits
+git log 
